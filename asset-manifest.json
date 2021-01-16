@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/annapaliiport/static/css/main.754bd2a0.chunk.css",
+    "main.js": "/annapaliiport/static/js/main.b8c40945.chunk.js",
+    "main.js.map": "/annapaliiport/static/js/main.b8c40945.chunk.js.map",
+    "runtime-main.js": "/annapaliiport/static/js/runtime-main.77bc1643.js",
+    "runtime-main.js.map": "/annapaliiport/static/js/runtime-main.77bc1643.js.map",
+    "static/js/2.e24377c3.chunk.js": "/annapaliiport/static/js/2.e24377c3.chunk.js",
+    "static/js/2.e24377c3.chunk.js.map": "/annapaliiport/static/js/2.e24377c3.chunk.js.map",
+    "index.html": "/annapaliiport/index.html",
+    "precache-manifest.355518b9ab739dff2de978ea297efce5.js": "/annapaliiport/precache-manifest.355518b9ab739dff2de978ea297efce5.js",
+    "service-worker.js": "/annapaliiport/service-worker.js",
+    "static/css/main.754bd2a0.chunk.css.map": "/annapaliiport/static/css/main.754bd2a0.chunk.css.map",
+    "static/js/2.e24377c3.chunk.js.LICENSE.txt": "/annapaliiport/static/js/2.e24377c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77bc1643.js",
+    "static/js/2.e24377c3.chunk.js",
+    "static/css/main.754bd2a0.chunk.css",
+    "static/js/main.b8c40945.chunk.js"
+  ]
+}
